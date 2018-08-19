@@ -1,0 +1,79 @@
+  {
+    "questions": [
+      {
+          "question": "How intersted are you in cars?",
+          "options":
+          [
+              "1. I think about them all the time",
+              "2. I recognice some cars on the road",
+              "3. what is a car?"
+          ],
+          "points":
+          [
+            3,
+            2,
+            1
+          ]
+      },
+      {
+          "question": "How long does it take for you to get ready in the morning?",
+          "options":
+          [
+              "1. More than 40 minutes",
+              "2. About 20 minutes",
+              "3. I am always ready"
+          ],
+          "points":
+          [
+            1,
+            2,
+            3
+          ]
+        },
+	       {
+          "question": "How long is your penis?",
+          "options":
+          [
+              "1. Magnum dong",
+              "2. Standard",
+              "3. Size doesn't matter"
+          ],
+          "points":
+          [
+            3,
+            2,
+            1
+          ]
+        },
+        {
+         "question": "Are you a woodworking master?",
+         "options":
+         [
+             "1. one hell of a master",
+             "2. i wouldn't consider my self a master",
+             "3. i know how to cut wood"
+         ],
+         "points":
+         [
+           3,
+           2,
+           1
+         ]
+       },
+        {
+            "question": "I wear clothes that...",
+            "options":
+            [
+                "1. show off my physique",
+                "2. i wear whatever my wife buys me",
+                "3. what ever is clean at the time"
+            ],
+            "points":
+            [
+              2,
+              1,
+              3
+            ]
+          }
+      ]
+  }
